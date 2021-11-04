@@ -1,0 +1,29 @@
+* Giáo viên hướng dẫn: Lê Ngọc Bảo
+* Môn: Hệ thống phân tán
+* Nhóm số: 01
+* Đề tài số: 07
+* Chi tiết: Viết 1 server cho phép nhiều client kết nối cùng lúc với các yêu cầu sau:
+Client có thể gửi yêu cầu là đường dẫn đến  1 ổ điã hoặc 1 thư mục nào đó bất kỳ trên server. 
+Nếu đường dẫn đó tồn tại thị sẽ gửi về danh sách các thư mục con và các tập tin trong ổ đĩa / đường dẫn đó.
+* Thành viên:
+	1. Lưu Tiến Phát - N18DCCN146
+	2. Nguyễn Thành Phong - N18DCCN147
+	3. Lù Vĩnh Trường - N18DCCN236
+	4. Bùi Quốc Tuấn - N18DCCN197
+Tóm tắt các chức năng bổ sung:
+1. Hỗ trợ lọc file với các tùy chọn như: sound, video, txt, image, compress file, folder,....
+2. Hỗ trợ xem ngày và giờ hiện tại với lệnh "date" và "time"
+3. Hỗ trợ xem thông tin hệ điều hành, kiến trúc hệ điều hành, CPU,..
+4. Hỗ trợ download tệp tin từ máy chủ về máy khách
+5. Hỗ trợ mở các ứng dụng trên máy chủ từ xa thông qua máy khách với các lệnh như "photo", "music",....
+6. Hỗ trợ xem thư mục, đường dẫn dưới dạng cây thư mục trực quan, dễ nhận viết
+	|--Picture
+		|--Avatar
+		|--Saved Picture
+	+-- window-21h1.jpg
+	+-- ......
+	+-- vietnam-flag.jpg
+	+-- ......
+	+-- viettel.jpg
+		
+	

@@ -1,0 +1,14 @@
+IP Address: 192.168.1.221
+
+Windark photo path: D:\OldPC\Picture\windark.jpg
+Winlight photo path: D:\OldPC\Picture\winlight.jpg
+
+Other command:
+1.date
+2.time
+3.photo
+4.music
+5.chrome
+6.left 4 dead 2
+7.os
+8.processor

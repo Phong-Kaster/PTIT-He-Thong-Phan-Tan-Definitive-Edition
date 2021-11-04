@@ -1,0 +1,6 @@
+C:\Users\Phat\Documents\Visual Studio 2019\HTPT\SharedClass\bin\Debug\SharedClass.dll
+C:\Users\Phat\Documents\Visual Studio 2019\HTPT\SharedClass\bin\Debug\SharedClass.pdb
+C:\Users\Phat\Documents\Visual Studio 2019\HTPT\SharedClass\obj\Debug\SharedClass.csproj.CoreCompileInputs.cache
+C:\Users\Phat\Documents\Visual Studio 2019\HTPT\SharedClass\obj\Debug\SharedClass.dll
+C:\Users\Phat\Documents\Visual Studio 2019\HTPT\SharedClass\obj\Debug\SharedClass.pdb
+C:\Users\Phat\Documents\Visual Studio 2019\HTPT\SharedClass\obj\Debug\SharedClass.csproj.AssemblyReference.cache
