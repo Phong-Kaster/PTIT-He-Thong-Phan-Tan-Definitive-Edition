@@ -105,8 +105,8 @@ Sau đây là hình ảnh mô tả dự án này
 
 Chúc các bạn đang đọc bài của mình sẽ đạt thành tính cao với môn học này.
 
-&nbsp;
-HO CHI MINH, VIETNAM &nbsp;
+<br/>
+HO CHI MINH, VIETNAM <br/>
 9 November, 2021
 
 Nhóm mình cả 4 đứa được 9 điểm nha ! Có điểm nhanh thật mới thi xong hôm qua đã có điểm rồi.
