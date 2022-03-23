@@ -1,5 +1,11 @@
-# Hệ Thống Phân Tán
-Đây là đồ án giữa kì kiêm cuối kì môn hệ thống phân tán do thầy Lê Ngọc Bảo giảng dạy
+<h1 align="center">Hệ Thống Phân Tán<br/>
+    Đồ án giữa kì kiêm cuối kì môn hệ thống phân tán do thầy Lê Ngọc Bảo giảng dạy
+</h1>
+
+<p align="center">
+    <img src="./photo/wotb.jpg" width="1280" />
+</p>
+
 
 # [**Topic**](#)
 
